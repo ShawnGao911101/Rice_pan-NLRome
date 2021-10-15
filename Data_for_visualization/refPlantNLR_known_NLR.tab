@@ -1,0 +1,59 @@
+ID	Other_ID	Genpept	CDS	Locus	Subclass	Structure	Coding_exons	Length_AA	Host	cv.	Common_name	Order	ID_PMID	Pathogen	Pathogen_spp	Avr	Avr_GenPept	Avr_PMID	Decoy	Decoy_GenPept	Decoy_PMID	qseqid	HOG
+Pid3-A4	Pid3-W5	ACN62387	ORUFI06G14040.1	ORUFI06G14040	NLR;CNL	CNL	1	924	Oryza rufipogon	strain A4	Brownbeard rice	Poales	23384860	Fungi	Magnaporthe oryzae							Pid3-A4	N0.HOG0000508
+Pid3-W3					NLR;CNL	CNL	1*	924	Oryza rufipogon	accession 100920	Brownbeard rice	Poales	24681716	Fungi	Magnaporthe oryzae							Pid3-W3	N0.HOG0000508
+Pid3-W4					NLR;CNL	CNL	1*	924	Oryza rufipogon	accession 106046	Brownbeard rice	Poales	24681716	Fungi	Magnaporthe oryzae							Pid3-W4	N0.HOG0000508
+Xo1					NLR;CNL;ZfBED	CONL	3	1709	Oryza sativa Aromatic Group	cv. Carolina Gold Select	Tropical Japonica rice	Poales	31986137//10.1101/2020.05.26.116731 	Bacteria	Xanthomonas oryzae pv. oryzae|Xanthomonas oryzae pv. oryzicola	pthXo1|tal2g|tal8|tal2|tal1c|tal5|talC|AvrXa10|AvrXa7	WP_041182630|||||||AVX10_XANOO|	27197779				Xo1	N0.HOG0000039
+Pid3-I1					NLR;CNL	CNL	1*	924	Oryza sativa aus Group	cv. Kasaleth	Indian rice	Poales	24681716	Fungi	Magnaporthe oryzae							Pid3-I1	N0.HOG0000508
+Bph1/9-1	Bph1//Bph10//Bph18//Bph21	AOX14165	KX681949	KF890252	NLR;CNL	CNNL	3	1226	Oryza sativa Indica Group	cv. Mudgo	Indica rice	Poales	27682162//27791169	Arthropods	Nilaparvata lugens							Bph1/9-1	N0.HOG0000334
+Bph1/9-2	Bph2//Bph26	BAP28224	AB910360		NLR;CNL	CNNL	3*	1218	Oryza sativa Indica Group	cv. ADR52	Indica rice	Poales	25076167	Arthropods	Nilaparvata lugens							Bph1/9-2	N0.HOG0000334
+Bph1/9-7	Bph7	ANC70204	KU221258		NLR;CNL	CNNL	3*	1214	Oryza sativa Indica Group	cv. T12	Indica rice	Poales	27791169	Arthropods	Nilaparvata lugens							Bph1/9-7	N0.HOG0000334
+Bph1/9-9	Bph9	ANC90314		KU216221	NLR;CNL	CNNL	3	1206	Oryza sativa Indica Group	cv. Pokkali	Indica rice	Poales	27791169	Arthropods	Nilaparvata lugens							Bph1/9-9	N0.HOG0000334
+Bph14		ADB07392		FJ941067	NLR;CNL	CNL	2	1323	Oryza sativa Indica Group		Indica rice	Poales	20018701	Arthropods	Nilaparvata lugens							Bph14	N0.HOG0000235
+Pi2	Nbs4-Pi	ABC94599		DQ352453	NLR;CNL	CNL	3	1032	Oryza sativa Indica Group	cv. C101A51	Indica rice	Poales	17073304	Fungi	Magnaporthe oryzae							Pi2	N0.HOG0000156
+Pi36		ABI64281		DQ900896	NLR;CNL	CNL	5	1056	Oryza sativa Indica Group	cv. Kasaleth	Indica rice	Poales	17507669	Fungi	Magnaporthe oryzae							Pi36	N0.HOG0000403
+Pi54	Pi-k^h				NLR;CNL	NL	1	1060	Oryza sativa Indica Group	cv. Tetep	Indica rice	Poales	16228246	Fungi	Magnaporthe oryzae	Avr-Pi54	CCN97897	27551285				Pi54	N0.HOG0000377
+Pi9	Nbs2-Pi9	ABB88855		DQ285630	NLR;CNL	CNL	3	1032	Oryza sativa Indica Group	cv. 75-1-127	Indica rice	Poales	16387888	Fungi	Magnaporthe oryzae	AvrPi9	AIS23643	25659573				Pi9	N0.HOG0000156
+Pid3	Pid3-I3//Pid3-Digu//Pi25	ACN62383		FJ745364	NLR;CNL	CNL	1	924	Oryza sativa Indica Group	cv. Digu	Indica rice	Poales	19506306//21621742	Fungi	Magnaporthe oryzae							Pid3	N0.HOG0000508
+PigmR	Pigm-R6//Pi50//Pi50_NBS4_1	APF29096		KU904633	NLR;CNL	CNL	3	1032	Oryza sativa Indica Group	cv. Gumei4	Indica rice	Poales	28154240//26183036	Fungi	Magnaporthe oryzae							PigmR	N0.HOG0000155
+PigmS	Pigm-R8	APF29097		KU904633	NLR;CNL	CNL	3	1032	Oryza sativa Indica Group	cv. Gumei4	Indica rice	Poales	28154240									PigmS	N0.HOG0000156
+Pi1-5		AEB00617		HQ606329	NLR;CNL;Pik-1	CONL	3	1143	Oryza sativa Indica Group	cv. C101LAC	Indica rice	Poales	22643901	Fungi	Magnaporthe oryzae							Pi1-5	N0.HOG0000391
+Pi7-J-1		ASM94220		KY225903	NLR;CNL;Pik-1	CONL	3	1142	Oryza sativa Indica Group	cv. Jao Hom Nin	Indica rice	Poales	28493203	Fungi	Magnaporthe oryzae							Pi7-J-1	N0.HOG0000391
+Pik-e1					NLR;CNL;Pik-1	CONL	3*	1143	Oryza sativa Indica Group	breeding line Xiangzao143	Indica rice	Poales	10.1007/s11032-015-0305-6	Fungi	Magnaporthe oryzae							Pik-e1	N0.HOG0000391
+Pi1-6		AEB00618		HQ606329	NLR;CNL;Pik-2	CNL	2	1021	Oryza sativa Indica Group	cv. C101LAC	Indica rice	Poales	22643901	HELPER								Pi1-6	N0.HOG0000429
+Pik-e2					NLR;CNL;Pik-2	CNL	2*	1021	Oryza sativa Indica Group	breeding line Xiangzao143	Indica rice	Poales	10.1007/s11032-015-0305-6	HELPER								Pik-e2	N0.HOG0000429
+Xa1		BAA25068	AB002266		NLR;CNL;ZfBED	CONL	3*	1802	Oryza sativa Indica Group	strain IR-BB1	Indica rice	Poales	9465073	Bacteria	Xanthomonas oryzae pv. oryzae	pthXo1|Tal9d|Tal4	WP_041182630|WP_041182762|WP_041182651	27811915				Xa1	N0.HOG0000039
+NLS1		XP_015615876	XM_015760390	LOC4350204	NLR;CNL	CNL	2	918	Oryza sativa Japonica Group	cv. Nipponbare	Japonica rice	Poales	21418352									NLS1	N0.HOG0000392
+Pb1		BAJ25849		AB570371	NLR;CNL	CNL	1	1296	Oryza sativa Japonica Group	cv. St. No.1	Japonica rice	Poales	20807214	Fungi	Magnaporthe oryzae							Pb1	N0.HOG0000790
+Pi35				FW369318	NLR;CNL	CNL	1	1289	Oryza sativa Japonica Group	breeding line Hokkai 188	Japonica rice	Poales	10.1038/srep04550	Fungi	Magnaporthe oryzae							Pi35	N0.HOG0000297
+Pi37		ABI94578		DQ923494	NLR;CNL	CNL	1	1290	Oryza sativa Japonica Group	cv. St. No. 1	Japonica rice	Poales	17947408	Fungi	Magnaporthe oryzae							Pi37	N0.HOG0000297
+Pi5-1	Pii-1	ACJ54697		EU869185	NLR;CNL	CNL	5	1025	Oryza sativa Japonica Group	cv. RIL260	Japonica rice	Poales	19153255	Fungi	Magnaporthe oryzae	AvrPii	BAH59485	19454732	OsExo70-F3	NP_001046915	26186703//10.1101/239400	Pi5-1	N0.HOG0000614
+Pi5-2		ACJ54698		EU869186	NLR;CNL	CNL	6	1063	Oryza sativa Japonica Group	cv. RIL260	Japonica rice	Poales	19153255	Fungi	Magnaporthe oryzae	AvrPii	BAH59485	19454732	OsExo70-F3	NP_001046915	26186703//10.1101/239400	Pi5-2	N0.HOG0000639
+Pi5-3		XP_015612169	XM_015756683	LOC4346750	NLR;CNL	CNLO	6	1049	Oryza sativa Japonica Group	cv. Nipponbare	Japonica rice	Poales	19153255									Pi5-3	N0.HOG0000639
+Pi63	Pikahei-1(t)	BAO79824		AB872116	NLR;CNL	CNL	5	1427	Oryza sativa Japonica Group	cv. Kahei	Japonica rice	Poales	10.1007/s11032-014-0067-6	Fungi	Magnaporthe oryzae							Pi63	N0.HOG0000102
+Pi64					NLR;CNL	CNL	3*	1288	Oryza sativa Japonica Group	cv. Yangmaogu (YMG)	Japonica rice	Poales	25650828	Fungi	Magnaporthe oryzae							Pi64	N0.HOG0000295
+Pib		BAA76282	AB013449		NLR;CNL	CNNL	3*	1251	Oryza sativa Japonica Group	cv. Tohoku IL-9	Japonica rice	Poales	10417726	Fungi	Magnaporthe oryzae	AvrPiB	AKO62639	26109439				Pib	N0.HOG0000174
+Pii-1	Pii	BAN59294	AB820896		NLR;CNL	CNL	5*	1025	Oryza sativa Japonica Group	cv. Hitomebore	Japonica rice	Poales	23790109	Fungi	Magnaporthe oryzae	AvrPii	BAH59485	19454732	OsExo70-F3	NP_001046915	26186703//10.1101/239400	Pii-1	N0.HOG0000614
+Pii-2	Pi5-2 	QDZ58247	MH490981		NLR;CNL	CNL	6*	1082	Oryza sativa Japonica Group	cv. Fujisaka 5	Japonica rice	Poales	10.1101/227132	Fungi	Magnaporthe oryzae	AvrPii	BAH59485	19454732	OsExo70-F3	NP_001046915	26186703//10.1101/239400	Pii-2	N0.HOG0000639
+Pish		XP_015646397	XM_015790911	LOC9271927	NLR;CNL	CNL	1	1290	Oryza sativa Japonica Group	cv. Nipponbare	Japonica rice	Poales	20707904	Fungi	Magnaporthe oryzae							Pish	N0.HOG0000297
+Pit		BAH20862	AB379816		NLR;CNL	CNL	1	989	Oryza sativa Japonica Group	cv. K59	Japonica rice	Poales	18808453	Fungi	Magnaporthe oryzae							Pit	N0.HOG0000207
+Piz-t	Nbs4-Piz-t	ABC73398		DQ352040	NLR;CNL	CNL	3	1033	Oryza sativa Japonica Group	cv. Toride 1	Japonica rice	Poales	17073304	Fungi	Magnaporthe oryzae	AvrPiz-t	CCC41985	19271956				Piz-t	N0.HOG0000155
+Rpr1		XP_015617634	XM_015762148	LOC4350133	NLR;CNL	CNL	1	901	Oryza sativa Japonica Group	cv. Nipponbare	Japonica rice	Poales	10487219									Rpr1	N0.HOG0000389
+Wed		XP_025877497	XM_026021712	LOC112937010	NLR;CNL	CNL	2	1401	Oryza sativa Japonica Group	cv. Nipponbare	Japonica rice	Poales	31431512	Bacteria	Xanthomonas oryzae pv. oryzae							Wed	N0.HOG0000799
+Pi-ta		ACX94088		GQ984160	NLR;CNL;MIC1	CNLO	4	1033	Oryza sativa Japonica Group	cv. Katy	Japonica rice	Poales	11090207	Fungi	Magnaporthe oryzae	Avr-Pita|AvrPita2	BAK40878|BAK40881	1090206|18393625				Pi-ta	N0.HOG0000634
+Pia-2	RGA5	BAK39930	AB604627		NLR;CNL;MIC1	CNLO	4	1116	Oryza sativa Japonica Group		Japonica rice	Poales	21251109	Fungi	Magnaporthe oryzae	Avr-Pia|Avr1-CO39	AGM61352|AF463528_3	19400839//19454732|11843304				Pia-2	N0.HOG0000268
+Pik-1	Pik1-KA	ADZ48537		HM048900	NLR;CNL;Pik-1	CONL	3	1143	Oryza sativa Japonica Group		Japonica rice	Poales	21118257	Fungi	Magnaporthe oryzae	AvrPikD|AvrPikE|AvrPik-H07|AvrPik-H08|AvrPik-H09	BAH59486|BAH59490|Not cloned|Not cloned|Not cloned	19454732|19454732|31096914|31096914|31096914				Pik-1	N0.HOG0000391
+Pik-h1		AET36549		HQ662330	NLR;CNL;Pik-1	CONL	3	1142	Oryza sativa Japonica Group		Japonica rice	Poales	24896089	Fungi	Magnaporthe oryzae	AvrPikD|AvrPikE|AvrPikA|AvrPikB|AvrPik-H06|AvrPik-H07|AvrPik-H08|AvrPik-H09	BAH59486|BAH59490|BAH59487|BAH59488|Not cloned|Not cloned|Not cloned|Not cloned	19454732|19454732|19454732|19454732|31096914|31096914|31096914|31096914				Pik-h1	N0.HOG0000391
+Pik-m1	Pikm1-TS	BAG71909	AB462324	AB462256	NLR;CNL;Pik-1	CONL	3	1143	Oryza sativa Japonica Group	cv. Tsuyuake	Japonica rice	Poales	18940787	Fungi	Magnaporthe oryzae	AvrPikD|AvrPikE|AvrPikA|AvrPik-H06|AvrPik-H07|AvrPik-H08|AvrPik-H09	BAH59486|BAH59490|BAH59487|Not cloned|Not cloned|Not cloned|Not cloned	19454732|19454732|19454732|31096914|31096914|31096914|31096914				Pik-m1	N0.HOG0000391
+Pik-p1		ADV58352		HM035360	NLR;CNL;Pik-1	CONL	3	1142	Oryza sativa Japonica Group		Japonica rice	Poales	21153625	Fungi	Magnaporthe oryzae	AvrPikD|AvrPik-H07|AvrPik-H09|Avr-Pia	BAH59486|Not cloned|Not cloned|AGM61352	19454732|31096914|31096914|31296569				Pik-p1	N0.HOG0000391
+Pik-s1		AET36547		HQ662329	NLR;CNL;Pik-1	CONL	3	1143	Oryza sativa Japonica Group		Japonica rice	Poales		Fungi	Magnaporthe oryzae	AvrPikD	BAH59486	19454732				Pik-s1	N0.HOG0000391
+PIK5-NP		XP_015616379	XM_015760893	LOC107278320	NLR;CNL;Pik-1	CNL	3	1125	Oryza sativa Japonica Group	cv. Nipponbare	Japonica rice	Poales										PIK5-NP	N0.HOG0000391
+Pi7-J-2		ASM94219		KY225902	NLR;CNL;Pik-2	CNL	2	1021	Oryza sativa Japonica Group	cv. Jao Hom Nin	Indica rice	Poales	28493203	HELPER								Pi7-J-2	N0.HOG0000429
+Pik-2		ADZ48538		HM048900	NLR;CNL;Pik-2	CNL	2	1021	Oryza sativa Japonica Group		Japonica rice	Poales	21118257	HELPER								Pik-2	N0.HOG0000429
+Pik-h2		AET36550		HQ662330	NLR;CNL;Pik-2	CNL	2	1021	Oryza sativa Japonica Group		Japonica rice	Poales	24896089	HELPER								Pik-h2	N0.HOG0000429
+Pik-m2	Pikm2-TS	BAG71908	AB462325	AB462256	NLR;CNL;Pik-2	CNL	2	1021	Oryza sativa Japonica Group	cv. Tsuyuake	Japonica rice	Poales	18940787	HELPER								Pik-m2	N0.HOG0000429
+Pik-p2		ADV58351		HM035360	NLR;CNL;Pik-2	CNL	2	1021	Oryza sativa Japonica Group		Japonica rice	Poales	21153625	HELPER								Pik-p2	N0.HOG0000429
+Pik-s2		AET36547		HQ662329	NLR;CNL;Pik-2	CNL	2	1021	Oryza sativa Japonica Group		Japonica rice	Poales		HELPER								Pik-s2	N0.HOG0000429
+PIK6-NP		XP_015617985	XM_015762499	LOC4351153	NLR;CNL;Pik-2	CNL	2	1044	Oryza sativa Japonica Group	cv. Nipponbare	Japonica rice	Poales										PIK6-NP	N0.HOG0000429
+Pi-ta2		XP_015618159	XM_015762673	LOC4351984	NLR;CNL;RGA4	CNL	3	1096	Oryza sativa Japonica Group	cv. Nipponbare	Japonica rice	Poales	29358651	HELPER								Pi-ta2	N0.HOG0000461
+Pia-1	RGA4	BAK39922	AB604622		NLR;CNL;RGA4	CNL	2	996	Oryza sativa Japonica Group		Japonica rice	Poales	21251109	HELPER								Pia-1	N0.HOG0000278
+PiPR1		XP_015636114	XM_015780628	LOC9267606	NLR;CNL;ZfBED	CNL	3	1042	Oryza sativa Japonica Group	cv. Nipponbare	Japonica rice	Poales	31742855	Fungi	Magnaporthe oryzae							PiPR1	N0.HOG0000037

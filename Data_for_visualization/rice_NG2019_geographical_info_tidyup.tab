@@ -1,0 +1,68 @@
+Nature_ID	Accession_ID	Species	Original producing area	Latitude	Longitude	know_place	Sequencing Coverage	Ecotype
+W2012	W2012	O. rufipogon	India	19.8	72.55	a	1.08	Or-III
+W1739	W1739	O. rufipogon	India	26.92	75.82	a	1.3	Or-III
+W0141	W0141	O. rufipogon	India	10.37	76.37	a	1.11	Or-III
+W1777	W1777	O. rufipogon	India	19.95	79.3	a	4.84	Or-III
+W1754	W1754	O. rufipogon	India	20.27	81.5	a	2.11	Or-I
+W0128	W0128	O. rufipogon	India	21	85.1	a	2.41	Or-I
+W0123	W0123-1	O. rufipogon	India	20.46	85.93	a	0.26	Or-I
+W1687	W1687	O. rufipogon	India	23.04	88.17	a	2.31	Or-II
+HP44	HP44	O. sativa	China	24.69	99.15	a	0.660384041	temperate japonica
+W1698	W1698	O. rufipogon	Thailand	14.34	100.59	a	1.63	Or-I
+W0170	W0170	O. rufipogon	Thailand	15.87	100.99	a	1.84	Or-I
+HP14	HP14	O. sativa	China	31.64	104.41	a	1.215189472	temperate japonica
+HP98	HP98	O. sativa	China	31.64	104.41	a	0.934158437	temperate japonica
+HP263	HP263	O. sativa	China	28.96	105.46	a	0.49961933	indica
+HP45	HP45	O. sativa	China	25.11	105.49	a	0.515784736	temperate japonica
+HP362	HP362-2	O. sativa	China	32.82	106.25	a	0.661668438	indica
+HP577	HP577	O. sativa	China	26.42	106.26	a	0.744867027	indica
+W1979	W1979	O. rufipogon	Indonesia	-6.4	106.82	a	2.27	Or-II
+HP517	HP517-1	O. sativa	China	29.7	107.36	a	0.695661651	indica
+HP407	HP407	O. sativa	China	26.49	107.58	a	1.006754824	indica
+HP314	HP314	O. sativa	China	26.49	107.58	a	1.399598772	temperate japonica
+HP38	HP38	O. sativa	China	27.37	109.16	a	0.959696866	temperate japonica
+HP274	HP274	O. sativa	China	27.73	109.21	a	0.540955307	indica
+HP486	HP486	O. sativa	China	27.92	109.43	a	0.488983007	indica
+HP119	HP119	O. sativa	China	19.05	109.83	a	1.861077915	indica
+W3095	W3095-2	O. rufipogon	China	25.28	111.34	a	1.66	Or-III
+HP48	HP48	O. sativa	China	29.37	112.39	a	0.59532947	temperate japonica
+HP492	HP492	O. sativa	China	25.79	113	a	0.721831574	indica
+HP390	HP390	O. sativa	China	23.08	113.14	a	0.543738404	temperate japonica
+HP327	HP327	O. sativa	China	23.4	113.19	a	0.594895739	indica
+HP396	HP396	O. sativa	China	28.16	113.63	a	0.678158085	indica
+HP383	HP383	O. sativa	China	32.13	114.08	a	0.697672999	indica
+HP91	HP91-2	O. sativa	China	36.84	115.18	a	0.672037516	temperate japonica
+W3078	W3078-2	O. rufipogon	China	28.23	116.61	a	1.05	Or-III
+HP13	HP13-2	O. sativa	China	39.82	118.13	a	0.621602155	temperate japonica
+HP103	HP103	O. sativa	China	45.75	127.48	a	0.536939648	temperate japonica
+GP104	GP104	O. sativa	Bengal	24.5	90	b	0.341997623	aus
+GP124	GP124	O. sativa	Bengal	23.5	90	b	0.807679996	aus
+GP3	GP3	O. sativa	Brazil	-12	-52	b	0.566784068	indica
+GP39	GP39	O. sativa	Brazil	-13	-52	b	0.897000547	tropical japonica
+W1943	W1943	O. rufipogon	China	27	113	b	3.41*	Or-III
+GP51	GP51	O. sativa	Cuba	21	-78	b	0.89737105	indica
+GP62	GP62	O. sativa	India	25	80	b	0.589741394	aus
+W3105	W3105-1	O. rufipogon	India	26	80	b	40	Or-I
+GP761	GP761-1	O. sativa	Indonesia 	-6.19893	106.929948	b	0.635931188	tropical japonica
+GP22	GP22	O. sativa	IRRI	14.416871	121.07747	b	0.80456924	indica
+GP72	GP72	O. sativa	IRRI	14.775214	121.261443	b	0.599910647	indica
+GP77	GP77	O. sativa	IRRI	14.900493	120.948689	b	0.865440492	tropical japonica
+GP567	GP567	O. sativa	IRRI	14.900493	120.948689	b	0.42615048	temperate japonica
+GP551	GP551	O. sativa	Japan	35.906636	139.502362	b	0.795624263	temperate japonica
+GP669	GP669	O. sativa	Japan	35.59168	138.987238	b	1.053579671	temperate japonica
+GP772	GP772-1	O. sativa	North Korea	37.286242	126.973803	b	0.661662785	indica
+GP677	GP677	O. sativa	North Korea	37.871936	127.249763	b	0.726648714	temperate japonica
+GP540	GP540	O. sativa	Pakistan	37.871936	127.249763	b	0.862876535	aus
+GP295	GP295-1	O. sativa	Pakistan	27.357376	65.287667	b	0.699589487	aromatic
+GP536	GP536	O. sativa	Philippine	14.614033	121.316634	b	0.69572284	tropical japonica
+GP640	GP640	O. sativa	US	37.682096	-98.376381	b	0.450381125	tropical japonica
+GLA4	GLA4	#N/A	#N/A	#N/A	#N/A	#N/A	#N/A	#N/A
+Kasalath	Kasalath	#N/A	#N/A	#N/A	#N/A	#N/A	#N/A	#N/A
+Nipponbare	Nipponbare	#N/A	#N/A	#N/A	#N/A	#N/A	#N/A	#N/A
+WYG7	WYG7	#N/A	#N/A	#N/A	#N/A	#N/A	#N/A	#N/A
+KY131	KY131	#N/A	#N/A	#N/A	#N/A	#N/A	#N/A	#N/A
+DHX2	DHX2	#N/A	#N/A	#N/A	#N/A	#N/A	#N/A	#N/A
+IL9	IL9	#N/A	#N/A	#N/A	#N/A	#N/A	#N/A	#N/A
+Koshihikari	Koshihikari	#N/A	#N/A	#N/A	#N/A	#N/A	#N/A	#N/A
+LG31	LG31	#N/A	#N/A	#N/A	#N/A	#N/A	#N/A	#N/A
+UR28	UR28	#N/A	#N/A	#N/A	#N/A	#N/A	#N/A	#N/A
