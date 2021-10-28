@@ -31,6 +31,7 @@ R and packages for data manipulation and figure generation are:
 ## Data for visualization
 The major information table for all NLR genes is:
 >`/Data_for_visualization/summary_table_15Oct2021_1043.csv`
+
 This table contians following columns:
 __gene_ID__: The unique ID for every NLR genes in the rice pan-NLRome.
 __Assembly_ID__: The ID of every rice genome assembly.
