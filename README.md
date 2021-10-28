@@ -61,7 +61,7 @@ Other involved data in figure generation are also in `Data_for_visualization` di
 
 
 
-## Result dataset
+## Result datasets
 The following file includes all identified NLR (without filteration) from the 67 rice accessions:
 >`/Result_dataset/rice_panNLRome_AA_Sequence_dataset.tar.gz`
 
