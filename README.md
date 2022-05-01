@@ -6,7 +6,7 @@ This repository is uploaded by Shang Gao at School of Life Sciences, Tsinghua Un
  
 ## Visualization code
 Codes for figure generation can be found in the following file: 
-> `/Figure_Visualization_Code_15OCT2021.ipynb`
+> `/Figures_code_v8_1May2022.ipynb`
 
 R and packages for data manipulation and figure generation are:
 > R 3.6.3
@@ -30,7 +30,7 @@ R and packages for data manipulation and figure generation are:
 
 ## Data for visualization
 The major information table for all NLR genes is:
->`/Data_for_visualization/summary_table_15Oct2021_1043.csv`
+>`/Data_for_visualization/SummaryTable_1May2022.csv`
 
 This table contians following columns:  
 |Column name| Description|
@@ -50,11 +50,12 @@ This table contians following columns:
 |__New2_NLR_class__| The final NLR class.
 |__LRR_number__| The number of LRR motif.
 |__with_lrr__| Whether a NLR gene comes with LRR domain.
-|__HOG__| Hierarchical ortholog group ID.
-|__HOG_class__| The class of an HOG.
-|__HOG_size__| The number of sequences in an HOG.
+|__HOG__| Ortholog group ID.
+|__HOG_class__| The class of an OG.
+|__HOG_size__| The number of sequences in an OG.
 |__pangenome_section__| The pan-genome section that an HOG belongs to.
-
+|__Status2__| Domesticated or wild accession.
+|__Species2__| Another format of subspecies information of genotypes.
 
 Most figures of this project are generated based on this table.
 Other involved data in figure generation are also in `Data_for_visualization` directory.
