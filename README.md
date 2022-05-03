@@ -29,8 +29,9 @@ R and packages for data manipulation and figure generation are:
 > maps
 
 ## Data for visualization
+`Unzip 06.MS_v8_final_data.zip` first to release the data used for figure generation.
 The major information table for all NLR genes is:
->`/Data_for_visualization/SummaryTable_1May2022.csv`
+>`/06.MS_v8_final_data/SummaryTable_1May2022.csv`
 
 This table contians following columns:  
 |Column name| Description|
@@ -58,8 +59,7 @@ This table contians following columns:
 |__Species2__| Another format of subspecies information of genotypes.
 
 Most figures of this project are generated based on this table.
-Other involved data in figure generation are also in `Data_for_visualization` directory.
-
+Other involved data in figure generation are also in `06.MS_v8_final_data` directory.
 
 
 ## Result datasets
